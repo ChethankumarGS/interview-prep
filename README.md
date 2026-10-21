@@ -12,5 +12,6 @@ Core CS subject notes I revise from:
 - **sql-joins-handwritten.pdf** - handwritten SQL joins examples (inner, left, right, full)
 - **js-oop-interview-questions.pdf** - OOP in JavaScript, interview Q&A summary sheet
 - **space-and-time-complexity.pdf** - big-O, space and time complexity summary sheet
+- **operating-system-one-video-notes.pdf** - third-party notes shared alongside the "Operating System in One Video" material; not my own notes, kept here for revision
 
 More folders coming as I add practice programs and DSA prep.
